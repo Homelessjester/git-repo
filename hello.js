@@ -6,7 +6,7 @@ function say(phrase) {
     switch (phrase.toLowerCase()) {
         case 'hi':
         case 'bye':
-            return phrase +', ' + NAME + '!';
+            return phrase + ', ' + NAME + '!';
         default:
             return 'Have a nice day!';
     }
