@@ -1,3 +1,11 @@
 'use strict';
 
-console.log('Hello, world');
+const NAME = 'Denis';
+
+function say(phrase) {
+    return phrase + ', ' + NAME + '!';
+}
+
+console.log(say('Hi'));
+
+
