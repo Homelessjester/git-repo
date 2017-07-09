@@ -1,3 +1,9 @@
+* {
+    background-color: #ffeed9;
+    margin: 0;
+    padding: 0;
+}
+
 .lead {
     font-size: 18px;
     color: #002380;
