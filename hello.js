@@ -7,5 +7,3 @@ function say(phrase) {
 }
 
 console.log(say('Hi'));
-
-
